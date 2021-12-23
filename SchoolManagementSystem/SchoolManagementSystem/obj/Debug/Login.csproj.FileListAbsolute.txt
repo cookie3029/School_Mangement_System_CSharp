@@ -1,0 +1,9 @@
+C:\Users\notep\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+C:\Users\notep\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+C:\Users\notep\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+C:\Users\notep\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Form1.resources
+C:\Users\notep\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+C:\Users\notep\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\notep\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\notep\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+C:\Users\notep\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
